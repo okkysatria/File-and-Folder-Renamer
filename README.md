@@ -39,3 +39,6 @@ python file_and_folder_renamer.py
 ```
 
 or just run EXE file
+
+![Screenshot_182](https://github.com/user-attachments/assets/0f9d33bc-068c-4e04-91b7-2dd02a8356ef)
+
