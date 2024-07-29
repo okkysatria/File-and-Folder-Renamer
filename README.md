@@ -38,3 +38,4 @@ Run the Python script to launch the GUI application:
 python file_and_folder_renamer.py
 ```
 
+or just run EXE file
